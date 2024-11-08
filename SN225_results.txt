@@ -1,0 +1,3 @@
+TC 23°C...50°C				= 0.2069 µV/V
+exact voltage @ 23°C		= 20.468980 V
+0.1 - 10 Hz noise @ 23°C	= 0.0185 µVrms/V

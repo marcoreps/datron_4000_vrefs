@@ -1,0 +1,3 @@
+zero TC point				= 39.00 °C
+exact voltage @ 39.00°C		= 20.4910925963 V
+0.1 - 10 Hz noise @ 39°C	= 0.01624 µVrms/V
